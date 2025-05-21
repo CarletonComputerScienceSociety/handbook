@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'CCSS Handbook',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'The Handbook of the Carleton Computer Science Society',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -68,7 +68,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'CCSS Handbook',
+      title: 'Handbook',
       logo: {
         alt: 'CCSS Handbook Logo',
         src: 'img/ccss-logo.png',
@@ -76,14 +76,45 @@ const config: Config = {
       items: [
         // {
         //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
+        //   sidebarId: 'allSidebar',
         //   position: 'left',
-        //   label: 'Tutorial',
+        //   label: 'Demo',
+        // },
+        {
+          type: 'docSidebar',
+          sidebarId: 'organizationSidebar',
+          position: 'left',
+          label: 'Organization',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'initiativesSidebar',
+          position: 'left',
+          label: 'Initiatives',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'guidesSidebar',
+          position: 'left',
+          label: 'Guides',
+        },
+        
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'eventsSidebar',
+        //   position: 'left',
+        //   label: 'Events',
+        // },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'organizationSidebar',
+        //   position: 'left',
+        //   label: 'Organization',
         // },
         // {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          type: 'docsVersionDropdown',
-        },
+        // {
+        //   type: 'docsVersionDropdown',
+        // },
         {
           href: 'https://github.com/carletoncomputersciencesociety',
           label: 'GitHub',
@@ -94,47 +125,47 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
+      //   {
+      //     title: 'Docs',
+      //     items: [
+      //       {
+      //         label: 'Tutorial',
+      //         to: '/docs/intro',
+      //       },
+      //     ],
+      //   },
+        // {
+        //   title: 'Community',
+        //   items: [
+        //     {
+        //       label: 'Stack Overflow',
+        //       href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+        //     },
+        //     {
+        //       label: 'Discord',
+        //       href: 'https://discordapp.com/invite/docusaurus',
+        //     },
+        //     {
+        //       label: 'X',
+        //       href: 'https://x.com/docusaurus',
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: 'More',
+        //   items: [
+        //     {
+        //       label: 'Blog',
+        //       to: '/blog',
+        //     },
+        //     {
+        //       label: 'GitHub',
+        //       href: 'https://github.com/facebook/docusaurus',
+        //     },
+        //   ],
+        // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Carleton Computer Science Society`,
     },
     prism: {
       theme: prismThemes.github,

@@ -11,12 +11,20 @@
 }
 
 [data-theme='dark'] {
-  --ifm-color-primary: #ff4b6e;
-  --ifm-color-primary-dark: #e64363;
-  --ifm-color-primary-darker: #cc3b59;
-  --ifm-color-primary-darkest: #a32f47;
-  --ifm-color-primary-light: #ff6381;
-  --ifm-color-primary-lighter: #ff7a94;
-  --ifm-color-primary-lightest: #ff9fb1;
+  --ifm-color-primary: #ff3a3a;
+  --ifm-color-primary-dark: #e03535;
+  --ifm-color-primary-darker: #c13030;
+  --ifm-color-primary-darkest: #9e2626;
+  --ifm-color-primary-light: #ff5c5c;
+  --ifm-color-primary-lighter: #ff7777;
+  --ifm-color-primary-lightest: #ff9a9a;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.navbar__logo {
+  height: 2.5rem !important;
+}
+
+.footer--dark {
+  background-color: #1a1a1a !important;
 }
