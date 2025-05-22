@@ -17,7 +17,7 @@ This approach lets us:
 
 Students who **submit a correct answer** are entered into a **random draw** to win prizes. This keeps the event friendly and encourages participation from all skill levels — not just the fastest coders.
 
-# 🕛 Scheduling
+## 🕛 Scheduling
 
 We've traditionally run a code challenge during week of awesome that lasts the **duration of the week**, but there is no reason we couldn't run additional code challenges throughout the year that also vary in duration.
 
