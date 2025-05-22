@@ -8,10 +8,10 @@ const config: Config = {
   title: 'CCSS Handbook',
   tagline: 'The Handbook of the Carleton Computer Science Society',
   favicon: 'img/favicon.ico',
-  url: 'https://carletoncomputersciencesociety.github.io',
-  baseUrl: '/handbook/',
-  organizationName: 'carletoncomputersciencesociety', // GitHub org/user name
-  projectName: 'handbook', // GitHub repo name
+  url: 'https://handbook.carletoncomputersciencesociety.ca',
+  baseUrl: '/',
+  organizationName: 'carletoncomputersciencesociety',
+  projectName: 'handbook',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
