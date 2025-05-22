@@ -1,1 +1,1 @@
-# Add News Articles
+# How To Add News Articles

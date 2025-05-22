@@ -1,1 +1,1 @@
-# Create Termly Budgets
+# How To Create Termly Budgets
