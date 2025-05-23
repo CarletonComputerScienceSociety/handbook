@@ -28,3 +28,8 @@
 .footer--dark {
   background-color: #1a1a1a !important;
 }
+
+.markdown h1:first-child {
+  --ifm-h1-font-size: 2.7rem !important;
+  margin-top: 1rem;
+}
