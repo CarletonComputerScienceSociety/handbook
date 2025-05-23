@@ -25,7 +25,3 @@
 - Choose trails with **low difficulty** unless you're specifically targeting a more experienced group.
 - Make sure someone has **cell service and a basic first aid kit**, especially for longer trails.
 - It helps to have one or two people who are familiar with the route ahead of time.
-
----
-
-Hiking events are easy to run and offer a much-needed change of pace for students. With a bit of planning and good weather, they’re always a hit.

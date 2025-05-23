@@ -84,12 +84,12 @@ const config: Config = {
           position: 'left',
           label: 'Initiatives',
         },
-        {
-          type: 'docSidebar',
-          sidebarId: 'guidesSidebar',
-          position: 'left',
-          label: 'Guides',
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'guidesSidebar',
+        //   position: 'left',
+        //   label: 'Guides',
+        // },
         
         // {
         //   type: 'docSidebar',
