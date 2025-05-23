@@ -13,7 +13,7 @@ We typically run this event in **late June**, just before **first-year registrat
   - Carleton Central registration system
   - Course planning tips and common mistakes
 - Ends with a **student panel** of upper-years sharing advice, experiences, and answering live questions
-- Often followed up by [**Course Registration Office Hours**](../course-registration-office-hours) for more personalized help
+- Often followed up by **Course Registration Office Hours** for more personalized help
 
 ---
 
