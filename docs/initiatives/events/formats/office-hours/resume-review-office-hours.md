@@ -7,9 +7,8 @@
 ## 🧩 What They Are
 
 - Typically hosted **in person**, in a classroom or lounge space where students can drop by for feedback.
-- May also be adapted to run in **Discord** as needed, using either voice or text.
+  - May also be adapted to run in **Discord** as needed, using either voice or text.
 - Scheduled ahead of major co-op deadlines or job fairs.
-- Designed to be **casual and approachable**, with one-on-one or small group conversations — no slides, no pressure.
 
 ---
 
