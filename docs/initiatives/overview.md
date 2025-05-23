@@ -9,7 +9,7 @@ The Carleton Computer Science Society (CCSS) does a lot. From running events to 
 
 The word **"initiative"** is how we group everything we do. Almost everything we take on falls into one of three main categories:
 
-## 🎉 Events
+## [🎉 Events](/docs/category/events-2)
 
 These are the most visible part of what we do. CCSS events are how we help build community, connect students with opportunities, and make university life a bit more fun (or useful). Some examples include:
 

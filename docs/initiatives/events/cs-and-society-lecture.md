@@ -2,7 +2,7 @@
 
 The CS & Society Lecture is an annual event hosted by the Carleton Computer Science Society (CCSS) in collaboration with the **School of Computer Science (SCS)**. The goal of this lecture is to explore the broader impact of computing on society.
 
-## 🤝 Finding Speakers
+## 🧩 Finding Speakers
 
 This event is made possible through ongoing support from the School of Computer Science. In particular, **Michel Barbeau**, Director of SCS, has regularly helped identify and recommend potential guest speakers for the lecture.
 
