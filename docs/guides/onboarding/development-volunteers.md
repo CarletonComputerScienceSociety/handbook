@@ -40,7 +40,7 @@ You can schedule on onboardin call by reaching out in **Discord DMs** with **`@m
 In this call, we'll:
 
 - Learn about your goals
-- Walk through the project landscape
+- Walk through the projects and tools we use
 - Match you with an issue aligned to your interests and CCSS priorities
 
 ### 💻 Step 3 (Bonus): Check Out the GitHub & Issues Board
