@@ -12,7 +12,7 @@ Running a CCSS event? Use this checklist to make sure everything runs smoothly f
   - Ensure the planned event date is **at least 3 weeks in advance**.
   - Confirm there are no scheduling conflicts with internal/external events.
   - If it is not intuitive what your event is based on the name, describe the logistics of your event in the proposal.
-- [ ] 🎯 Designate the [Event Lead](/docs/initiatives/events/#%EF%B8%8F-the-role-of-the-event-lead).
+- [ ] 🎯 Designate the [Event Lead](#role-of-event-leads).
 - [ ] 🎯 Confirm budget with the **Director of Finance** if costs are involved.
 
 📌 Once you have created your proposal, post it in the **#events Discord topic channel**.
@@ -24,7 +24,7 @@ Once the team has confirmed you are good to proceed with your event proposal...
 - [ ] 🎯 Book a room or delegate the task. Refer to the [Room Booking Guide](#) if unsure how.
 - [ ] 🎯 Design the event poster or delegate the task. Refer to the [Design Guide](#) or past posters for inspiration.
 
-📌 If you are the [Event Lead](/docs/initiatives/events/#%EF%B8%8F-the-role-of-the-event-lead), you are responsible for ensuring these steps are completed before the event can be promoted (**minimum 2 weeks** before the anticipated date).
+📌 If you are the [Event Lead](#role-of-event-leads), you are responsible for ensuring these steps are completed before the event can be promoted (**minimum 2 weeks** before the anticipated date).
 
 ### Stage 3: Promote The Event
 
