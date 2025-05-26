@@ -23,6 +23,13 @@ const config: Config = {
     locales: ['en'],
   },
 
+  scripts: [
+    {
+      src: "/scripts/shynet-inject.js",
+      async: true,
+    },
+  ],
+
   presets: [
     [
       'classic',
