@@ -78,31 +78,30 @@ const config: Config = {
           position: 'left',
           label: 'Organization',
         },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'initiativesSidebar',
+        //   position: 'left',
+        //   label: 'Initiatives',
+        // },    
         {
           type: 'docSidebar',
-          sidebarId: 'initiativesSidebar',
+          sidebarId: 'eventsSidebar',
           position: 'left',
-          label: 'Initiatives',
+          label: 'Events',
         },
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'guidesSidebar',
-        //   position: 'left',
-        //   label: 'Guides',
-        // },
-        
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'eventsSidebar',
-        //   position: 'left',
-        //   label: 'Events',
-        // },
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'organizationSidebar',
-        //   position: 'left',
-        //   label: 'Organization',
-        // },
+        {
+          type: 'docSidebar',
+          sidebarId: 'developmentSidebar',
+          position: 'left',
+          label: 'Development',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'guidesSidebar',
+          position: 'left',
+          label: 'Guides',
+        },
         // {to: '/blog', label: 'Blog', position: 'left'},
         // {
         //   type: 'docsVersionDropdown',

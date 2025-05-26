@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Standard Event Procedure
+# Event Organization Procedure
 
 Running a CCSS event? Use this checklist to make sure everything runs smoothly from start to finish. This guide outlines each major step — from planning to promotion to post-event wrap-up.
 
@@ -44,3 +44,15 @@ Once the team has confirmed you are good to proceed with your event proposal...
 
 - [ ] 🎯 Fill out the **Event Retrospective** form or share a summary with the team.
 - [ ] 🎯 Create or delegate a **recap post** for Instagram or LinkedIn.
+
+---
+
+# Role of Event Leads
+
+Every event should have **one designated Event Lead**. This person is responsible for ensuring that the event runs smoothly from start to finish.
+
+The Event Lead doesn’t need to do everything themselves — they can delegate tasks like poster design, room booking, or social media posting.
+
+Having a clear Event Lead prevents confusion, avoids dropped tasks, and ensures our events maintain a high standard of quality and organization.
+
+If you are proposing an event, you are **by default** the Event Lead **unless** someone else is **explicitly assigned.**

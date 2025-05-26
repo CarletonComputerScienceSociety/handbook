@@ -1,9 +1,9 @@
 ---
-title: "Overview"
-sidebar_position: 0
+title: "Initiatives"
+sidebar_position: 3
 ---
 
-# Overview
+# Initiatives
 
 The Carleton Computer Science Society (CCSS) does a lot. From running events to maintaining helpful resources and offering valuable services to our student community — we're constantly working on initiatives that make student life in the CS department better.
 
