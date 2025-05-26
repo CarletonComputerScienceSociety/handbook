@@ -59,6 +59,14 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    announcementBar: {
+      id: 'new-handbook-notice-may-2025',
+      content:
+        '📢 This handbook is new! Some pages may be blank or incomplete — feel free to explore and contribute.',
+      backgroundColor: '#ffe5e5', // light red/pink background
+      textColor: '#8b0000',       // dark red text
+      isCloseable: true,
+    },
     navbar: {
       title: 'Handbook',
       logo: {
