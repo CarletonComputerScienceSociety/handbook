@@ -37,9 +37,9 @@ export default function Home(): ReactNode {
       description="Description will go into a meta tag in <head />"
     >
       <HomepageHeader />
-      {/* <main>
-        <HomepageFeatures />
-      </main> */}
+      <div style={{ textAlign: "center", marginTop: "5rem" }}>
+        Better home page coming soon ¯\_(ツ)_/¯
+      </div>
     </Layout>
   );
 }
