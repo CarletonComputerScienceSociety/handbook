@@ -1,3 +1,7 @@
+---
+title: "Contributing Question Generators"
+---
+
 # Contributing Generators
 
 In this project, a "generator" is a class that creates new varients of an existing question.
