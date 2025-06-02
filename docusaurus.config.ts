@@ -62,8 +62,15 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
   themeConfig: {
+    algolia: {
+      appId: process.env.ALGOLIA_APP_ID,
+      apiKey: process.env.ALGOLIA_API_KEY,
+      indexName: process.env.ALGOLIA_INDEX_NAME,
+      contextualSearch: true,
+      searchParameters: {},
+      placeholder: 'Search the Handbook',
+    },
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     announcementBar: {
