@@ -64,9 +64,9 @@ const config: Config = {
   ],
   themeConfig: {
     algolia: {
-      appId: ALGOLIA_APP_ID,
-      apiKey: ALGOLIA_API_KEY,
-      indexName: ALGOLIA_INDEX_NAME,
+      appId: process.env.ALGOLIA_APP_ID,
+      apiKey: process.env.ALGOLIA_API_KEY,
+      indexName: process.env.ALGOLIA_INDEX_NAME,
       contextualSearch: true,
       searchParameters: {},
       placeholder: 'Search the Handbook',
