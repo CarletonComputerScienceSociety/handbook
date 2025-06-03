@@ -12,7 +12,7 @@ Users can navigate to a question's generator to practice that specific question 
 
 Any question where the "create sparkles" are disabled is a question that does not currently have an associated generator and is an oppurtunity for a student to contribute to the project.
 
-<img src="../public/images/docs/generator_example.png"/>
+<img src="/img/docs/generator_example.png"/>
 
 <br/>
 
@@ -90,7 +90,7 @@ question: comp2804/{evaluation}/{question-number}/question.ts
 
 If you now navigate to your question in the website, the "create sparkles" will now be clickable and should take you to a page that appears like the following:
 
-<img src="../public/images/docs/blank_generator.png"/>
+<img src="/img/docs/blank_generator.png"/>
 
 ## 4. Implementing your generator
 
