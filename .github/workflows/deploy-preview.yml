@@ -1,0 +1,48 @@
+name: Build and Deploy PR Preview to Surge
+
+on:
+  pull_request:
+
+jobs:
+  build_preview:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Set Base URL from PR number
+        run: |
+          export PRNUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH") 
+          echo BASE_URL="https://carletoncomputersciencesociety-handbook-build_preview-pr-"$PRNUMBER".surge.sh/" >> $GITHUB_ENV
+
+
+      - name: Build Docusaurus site 
+        env:
+          BASE_URL: ${{ env.BASE_URL }}
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+          ALGOLIA_INDEX_NAME: ${{ secrets.ALGOLIA_INDEX_NAME }}
+        run: npm run build
+
+      - name: Deploy to Surge
+        env:
+          BASE_URL: ${{ env.BASE_URL }}
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+          ALGOLIA_INDEX_NAME: ${{ secrets.ALGOLIA_INDEX_NAME }}
+        uses: afc163/surge-preview@v1
+        id: preview_step
+        with:
+          surge_token: ${{ secrets.SURGE_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          dist: build
+          teardown: true
