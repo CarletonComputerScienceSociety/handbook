@@ -1,19 +1,19 @@
 facebook:
   label: Facebook
   permalink: /facebook
-  description: Facebook tag description
+  description: The Carleton Computer Science Society internal handbook for volunteers and developers
 
 hello:
   label: Hello
   permalink: /hello
-  description: Hello tag description
+  description: The Carleton Computer Science Society internal handbook for volunteers and developers
 
 docusaurus:
   label: Docusaurus
   permalink: /docusaurus
-  description: Docusaurus tag description
+  description: The Carleton Computer Science Society internal handbook for volunteers and developers
 
 hola:
   label: Hola
   permalink: /hola
-  description: Hola tag description
+  description: The Carleton Computer Science Society internal handbook for volunteers and developers
