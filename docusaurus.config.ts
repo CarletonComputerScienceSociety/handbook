@@ -71,8 +71,8 @@ const config: Config = {
       searchParameters: {},
       placeholder: 'Search the Handbook',
     },
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+
+    image: 'img/orientation2018-min.jpeg',
     announcementBar: {
       id: 'new-handbook-notice-may-2025',
       content:
