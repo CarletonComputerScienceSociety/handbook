@@ -33,3 +33,23 @@
   --ifm-h1-font-size: 2.7rem !important;
   margin-top: 1rem;
 }
+
+.header-github-link {
+  mask-image: url("https://simpleicons.org/icons/github.svg");
+  -webkit-mask-image: url("https://simpleicons.org/icons/github.svg");
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  background-color: currentColor;
+  width: 1.45rem;
+  height: 1.45rem;
+  margin-right: 1rem;
+  display: inline-block;
+}
+
+@media (max-width: 996px){
+  .menu__link.header-github-link {
+    display: none !important;
+  }
+}
