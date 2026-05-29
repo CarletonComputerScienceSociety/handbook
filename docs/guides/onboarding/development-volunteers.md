@@ -35,7 +35,7 @@ You can view all scheduled calls in the Discord event list.
 
 ### 📅 Step 2: Schedule Your Onboarding Call
 
-You can schedule an onboarding call starting Monday, June 1st, 2026 by using this link: **[Book a call](https://calendly.com/jacc-padmakar-ccss/ccss-dev-projects)**, or reaching out to **`@jaccolantern`** in **Discord DMs**. 
+You can schedule an onboarding call starting Monday, June 1st, 2026 by using this link: **[Book a call](https://calendly.com/jacc-padmakar-ccss/ccss-dev-projects)**, or reaching out to **`@jaccolantern`** in **Discord DMs**.
 
 In this call, we'll:
 
@@ -66,7 +66,7 @@ We are still working on setting up the repositories for all of the projects. Ini
 ### 🤝 Support While You Work
 
 - Ask questions anytime in `#development` in the internal Discord.
-- You can also schedule a **[1:1 call](https://calendly.com/jacc-padmakar-ccss/ccss-dev-projects)** with Matthew anytime\*\* for support (with 24 hours' notice, pending availability).
+- You can also schedule a **[1:1 call](https://calendly.com/jacc-padmakar-ccss/ccss-dev-projects)** with Jacc anytime\*\* for support (with 24 hours' notice, pending availability).
 
 ### 🗒️ Progress Updates
 
