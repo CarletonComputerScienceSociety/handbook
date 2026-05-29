@@ -15,7 +15,7 @@ This guide will walk you through how to get started, what to expect, and how to 
 
 ### ✅ Step 1: Join the CCSS Internal Discord
 
-You should have received an **invite link** in your welcome email. Join the server and **ping `@mathyoumb`** with your GitHub username.
+You should have received an **invite link** in your welcome email. Join the server and **ping `@jaccolantern`** with your GitHub username.
 
 This is so we can:
 
@@ -35,22 +35,21 @@ You can view all scheduled calls in the Discord event list.
 
 ### 📅 Step 2: Schedule Your Onboarding Call
 
-You can schedule on onboardin call by reaching out in **Discord DMs** with **`@mathyoumb`** **or use this link** to schedule a quick onboarding chat: **👉 [Book a call](https://calendly.com/matthewmacraebovell/chats)**
+You can schedule an onboarding call starting Monday, June 1st, 2026 by using this link: **[Book a call](https://calendly.com/jacc-padmakar-ccss/ccss-dev-projects)**, or reaching out to **`@jaccolantern`** in **Discord DMs**. 
 
 In this call, we'll:
 
 - Learn about your goals
 - Walk through the projects and tools we use
-- Match you with an issue aligned to your interests and CCSS priorities
+- Match you with a first task aligned to your interests and CCSS priorities
 
-### 💻 Step 3 (Bonus): Check Out the GitHub & Issues Board
+While booking an onboarding call is preferred for easier discussion, if our availabilities don't line up, you can simply **reach out to me via Discord DMs** so we can discuss the topics mentioned above over messages.
 
-Take some time to explore:
+### 💻 GitHub Repositories and Project Board
+
+We are still working on setting up the repositories for all of the projects. Initial issues and projects should be **available by the morning of Monday, June 1st.** For now, feel free to checkout other projects on our GitHub org
 
 - 📂 [CCSS GitHub Organization](https://github.com/CarletonComputerScienceSociety)
-- 🔧 [Development Projects Board](https://github.com/orgs/CarletonComputerScienceSociety/projects/24)
-
-You’ll find open issues, ongoing initiatives, and useful project documentation.
 
 ---
 
@@ -58,15 +57,16 @@ You’ll find open issues, ongoing initiatives, and useful project documentation
 
 ### 📌 Picking Up Work
 
-- New issues will be added to the GitHub board on a **rolling basis** by **`@mathyoumb`**.
+- New issues will be added to a GitHub project board on a **rolling basis** by **`@jaccolantern`**.
 - When you're ready to work on something, you can:
   - **Self-assign an issue**, or
-  - **[Book a call](https://calendly.com/matthewmacraebovell/chats) with Matthew** for tailored suggestions
+  - **[Book a call](https://calendly.com/jacc-padmakar-ccss/ccss-dev-projects) with Jacc** or **reach out via Discord DMs** for tailored suggestions
+  - **First tasks will be assigned during the initial onboarding call**
 
 ### 🤝 Support While You Work
 
 - Ask questions anytime in `#development` in the internal Discord.
-- You can also schedule a **[1:1 call](https://calendly.com/matthewmacraebovell/chats)** with Matthew anytime\*\* for support (with 24 hours' notice, pending availability).
+- You can also schedule a **[1:1 call](https://calendly.com/jacc-padmakar-ccss/ccss-dev-projects)** with Matthew anytime\*\* for support (with 24 hours' notice, pending availability).
 
 ### 🗒️ Progress Updates
 
@@ -75,7 +75,7 @@ You’ll find open issues, ongoing initiatives, and useful project documentation
   - What’s in progress
   - Where you might be stuck
 
-If **`@mathyoumb`** hasn't heard from you in **over a week**, they will reach out to check in, if you do not respond withing 48 hours, they will **unassign** you from the issue.
+If **`@jaccolantern`** hasn't heard from you in **over a week**, they will reach out to check in, if you do not respond withing 48 hours, they will **unassign** you from the issue.
 
 ### 🧑‍💻 Optional Sync Calls
 
@@ -90,4 +90,4 @@ If **`@mathyoumb`** hasn't heard from you in **over a week**, they will reach ou
 
 ---
 
-Thanks again for volunteering your time and skills — we're excited to build with you!
+Thanks again for volunteering your time and skills - we're excited to build with you!
