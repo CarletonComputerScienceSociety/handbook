@@ -50,7 +50,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/CarletonComputerScienceSociety/handbook/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -71,8 +71,13 @@ const config: Config = {
       searchParameters: {},
       placeholder: 'Search the Handbook',
     },
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+
+    metadata: [
+      { name: 'og:image', content: '/images/orientation2018-min.jpeg' },
+      { name: 'twitter:image', content: '/images/orientation2018-min.jpeg' },
+    ],
+
+    image: 'img/orientation2018-min.jpeg',
     announcementBar: {
       id: 'new-handbook-notice-may-2025',
       content:
