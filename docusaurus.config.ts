@@ -63,14 +63,14 @@ const config: Config = {
     ],
   ],
   themeConfig: {
-    algolia: {
-      appId: process.env.ALGOLIA_APP_ID,
-      apiKey: process.env.ALGOLIA_API_KEY,
-      indexName: process.env.ALGOLIA_INDEX_NAME,
-      contextualSearch: true,
-      searchParameters: {},
-      placeholder: 'Search the Handbook',
-    },
+    // algolia: {
+    //   appId: process.env.ALGOLIA_APP_ID,
+    //   apiKey: process.env.ALGOLIA_API_KEY,
+    //   indexName: process.env.ALGOLIA_INDEX_NAME,
+    //   contextualSearch: true,
+    //   searchParameters: {},
+    //   placeholder: 'Search the Handbook',
+    // },
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     announcementBar: {
@@ -130,8 +130,9 @@ const config: Config = {
         // },
         {
           href: 'https://github.com/carletoncomputersciencesociety',
-          label: 'GitHub',
           position: 'right',
+          className: 'header-github-link',
+          'aria-label': 'Github repository',
         },
       ],
     },
